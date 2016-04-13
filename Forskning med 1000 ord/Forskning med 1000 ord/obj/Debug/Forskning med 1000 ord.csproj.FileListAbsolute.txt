@@ -1,0 +1,15 @@
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\bin\Debug\Forskning med 1000 ord.exe.config
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\bin\Debug\Forskning med 1000 ord.exe
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\bin\Debug\Forskning med 1000 ord.pdb
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning med 1000 ord.csprojResolveAssemblyReference.cache
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning_med_1000_ord.About.resources
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning_med_1000_ord.ForskningMed1000Ord.resources
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning_med_1000_ord.Properties.Resources.resources
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning med 1000 ord.csproj.GenerateResource.Cache
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning med 1000 ord.exe
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning med 1000 ord.pdb
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning_med_1000_ord.WordListDoesNotExist.resources
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\bin\Debug\Forskning med 1000 ord.exe.manifest
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\bin\Debug\Forskning med 1000 ord.application
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning med 1000 ord.exe.manifest
+C:\Users\jajoh\Documents\DTU\01 - Active projects\GitHub\Forskning med 1000 ord\Forskning med 1000 ord\Forskning med 1000 ord\obj\Debug\Forskning med 1000 ord.application
