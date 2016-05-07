@@ -75,10 +75,15 @@ namespace Forskning_med_1000_ord
             about.ShowDialog();
         }
 
-        // New botton on menuestrip resets the textbox
+        // New botton on menuestrip resets the textbox and analysis text boxes
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
             textToAnalyse.Text = "";
+
+            this.textBoxTotalWords.Text = "0";
+            this.textBoxAntalRigtigeOrd.Text = "0";
+            this.textBoxAntalForkerteOrd.Text = "0";
+            this.textBoxProcent.Text = "";
         }
 
         // Open botton on menuestrip starts file dialog and prints file content to textbox
@@ -112,6 +117,12 @@ namespace Forskning_med_1000_ord
         //Run botton starts the comparison of words in the text to the 1000 words list
         private void buttonRun_Click(object sender, EventArgs e)
         {
+            //If there is no text insert default text
+            if (textToAnalyse.Text.Length == 0)
+            {
+                textToAnalyse.Text = "Skriv tekst her.";
+            }
+                
             //Making string variable to hold words and punctuations
             string indexString = "";
 

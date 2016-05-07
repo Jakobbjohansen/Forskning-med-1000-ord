@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Forskning med 1000 ord.exe" size="19864">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Forskning med 1000 ord.exe" size="20376">
       <assemblyIdentity name="Forskning med 1000 ord" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cBx1QyU8S0Owhq/2AicU35J1RC5APozO+e1n9ZJdu20=</dsig:DigestValue>
+        <dsig:DigestValue>FqewjXqgLmLtzSN1x/LMyafqFiYSLDEsQqqSI0Ef8GM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
